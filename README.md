@@ -1,12 +1,12 @@
 ## Corona-Tracker
 This iOS App displays the latest Data from the disease.sh API.
 
-![alt text](https://github.com/chrizzly0/Corona-Tracker/blob/main/Picture1.png?raw=true)   
+![alt text](https://github.com/chrizzly0/Corona-Tracker/blob/main/Picture1.png?raw=true) 
 ![alt text](https://github.com/chrizzly0/Corona-Tracker/blob/main/Picture2.png?raw=true)
 
-#Features
+# Features
 - Active Cases, Recovered Today, Todays Deaths
 - Show by Country
 
-#Building
+# Building
 Open the Xcode-Project and build for your Device.
